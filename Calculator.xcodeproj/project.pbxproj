@@ -13,6 +13,7 @@
 		AE592CBF27BA844D00387BAC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE592CBD27BA844D00387BAC /* Main.storyboard */; };
 		AE592CC127BA844E00387BAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE592CC027BA844E00387BAC /* Assets.xcassets */; };
 		AE592CC427BA844E00387BAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE592CC227BA844E00387BAC /* LaunchScreen.storyboard */; };
+		AE592CCC27BA945800387BAC /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE592CCB27BA945800387BAC /* RoundButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AE592CC027BA844E00387BAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE592CC327BA844E00387BAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE592CC527BA844E00387BAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE592CCB27BA945800387BAC /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AE592CB927BA844D00387BAC /* SceneDelegate.swift */,
 				AE592CBB27BA844D00387BAC /* ViewController.swift */,
 				AE592CBD27BA844D00387BAC /* Main.storyboard */,
+				AE592CCB27BA945800387BAC /* RoundButton.swift */,
 				AE592CC027BA844E00387BAC /* Assets.xcassets */,
 				AE592CC227BA844E00387BAC /* LaunchScreen.storyboard */,
 				AE592CC527BA844E00387BAC /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE592CCC27BA945800387BAC /* RoundButton.swift in Sources */,
 				AE592CBC27BA844D00387BAC /* ViewController.swift in Sources */,
 				AE592CB827BA844D00387BAC /* AppDelegate.swift in Sources */,
 				AE592CBA27BA844D00387BAC /* SceneDelegate.swift in Sources */,
